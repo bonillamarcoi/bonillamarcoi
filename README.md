@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hola! Soy Marco Iván Bonilla ✌️
 
-<!--
-**bonillamarcoi/bonillamarcoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí
+- 🏫 Estudiante del bachillerato tecnológico del CECyTEC plantel Pomuch
+- 📚 Aprendiendo logica de programación con Python y control de versiones con Git y GutHub
+- Mi meta es aprender programación para la universidad
 
-Here are some ideas to get you started:
+### ⚒️ Herramientas en mi mochila
+- **Sistemas:** Linux Mint
+- **Lenguaje de programación:** Python
+- **Control de versiones:** Git y GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+*2 semestre A de Programación
